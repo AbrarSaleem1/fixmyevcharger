@@ -24,7 +24,12 @@ export const metadata = {
     "max-video-preview": -1,
   },
   icons: {
-    icon: "/favicon.svg",
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/icon.svg", type: "image/svg+xml" }
+    ],
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
   },
   other: {
     "Content-Language": "en",

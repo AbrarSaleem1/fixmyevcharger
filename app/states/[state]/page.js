@@ -13,11 +13,11 @@ export async function generateMetadata({ params }) {
   return {
     title: `EV Charger Repair ${state.name} | Certified EV Electricians`,
     description: `Need EV charger repair in ${state.name}? 24/7 Tesla, Level 2 & commercial charger service across ${state.code}. Call (877) 596-2182!`,
-    alternates: { canonical: `https://evchargerrepair.us/states/${state.slug}/` },
+    alternates: { canonical: `https://fixmyevcharger.us/states/${state.slug}/` },
     openGraph: {
       title: `EV Charger Repair ${state.name} | Certified EV Electricians`,
       description: `Need EV charger repair in ${state.name}? 24/7 Tesla, Level 2 & commercial charger service across ${state.code}. Call (877) 596-2182!`,
-      url: `https://evchargerrepair.us/states/${state.slug}/`,
+      url: `https://fixmyevcharger.us/states/${state.slug}/`,
     },
   };
 }

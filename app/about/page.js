@@ -4,7 +4,7 @@ import Breadcrumbs from "../components/Breadcrumbs";
 export const metadata = {
   title: "About Us | FixMyEV Charger",
   description: "Learn about FixMyEV Charger — nationwide leaders in fast, certified EV charger repair, Tesla Wall Connector service, and emergency electrical solutions. Call (877) 596-2182!",
-  alternates: { canonical: "https://evchargerrepair.us/about/" },
+  alternates: { canonical: "https://fixmyevcharger.us/about/" },
 };
 
 export default function AboutPage() {

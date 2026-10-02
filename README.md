@@ -1,4 +1,4 @@
-﻿# FixMyEV Charger (evchargerrepair.us)
+﻿# FixMyEV Charger (fixmyevcharger.us)
 
 24/7 Nationwide Emergency EV Charger Repair, Tesla Wall Connector Diagnostics, Level 2 EVSE Service, and Commercial Charging Solutions.
 

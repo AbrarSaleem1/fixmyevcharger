@@ -4,7 +4,7 @@ import Breadcrumbs from "../components/Breadcrumbs";
 export const metadata = {
   title: "Terms of Service | FixMyEV Charger",
   description: "Terms of Service for FixMyEV Charger EV charger repair dispatch and service network.",
-  alternates: { canonical: "https://evchargerrepair.us/terms-of-service/" },
+  alternates: { canonical: "https://fixmyevcharger.us/terms-of-service/" },
 };
 
 export default function TermsOfServicePage() {

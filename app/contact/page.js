@@ -4,7 +4,7 @@ import Breadcrumbs from "../components/Breadcrumbs";
 export const metadata = {
   title: "Contact Us | FixMyEV Charger 24/7 Dispatch",
   description: "Contact FixMyEV Charger for 24/7 emergency EV charger repair dispatch. Call (877) 596-2182 for immediate assistance nationwide.",
-  alternates: { canonical: "https://evchargerrepair.us/contact/" },
+  alternates: { canonical: "https://fixmyevcharger.us/contact/" },
 };
 
 export default function ContactPage() {

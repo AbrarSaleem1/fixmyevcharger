@@ -3,7 +3,7 @@ import { SERVICES } from "../lib/services";
 import citiesByStateData from "../data/citiesByState.json";
 
 export default function sitemap() {
-  const baseUrl = "https://evchargerrepair.us";
+  const baseUrl = "https://fixmyevcharger.us";
 
   const staticRoutes = [
     { url: `${baseUrl}/`, lastModified: new Date(), changeFrequency: "weekly", priority: 1.0 },

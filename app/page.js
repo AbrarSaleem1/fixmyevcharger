@@ -19,11 +19,11 @@ export const metadata = {
   title: "EV Charger Repair & Electrical Services | FixMyEV Charger",
   description:
     "FixMyEV Charger provides 24/7 emergency EV charger repair, Tesla Wall Connector service & Level 2 diagnostics. Certified electricians. Call (877) 596-2182!",
-  alternates: { canonical: "https://evchargerrepair.us/" },
+  alternates: { canonical: "https://fixmyevcharger.us/" },
   openGraph: {
     title: "EV Charger Repair & Electrical Services | FixMyEV Charger",
     description: "FixMyEV Charger provides 24/7 emergency EV charger repair, Tesla Wall Connector service & Level 2 diagnostics. Certified electricians. Call (877) 596-2182!",
-    url: "https://evchargerrepair.us/",
+    url: "https://fixmyevcharger.us/",
   },
 };
 
@@ -33,7 +33,7 @@ export default function HomePage() {
     "@type": ["HomeAndConstructionBusiness", "LocalBusiness", "Electrician"],
     name: "FixMyEV Charger",
     description: "24/7 emergency EV charger repair, Tesla Wall Connector service, Level 2 charger diagnostics, and commercial charging station maintenance.",
-    url: "https://evchargerrepair.us/",
+    url: "https://fixmyevcharger.us/",
     telephone: "+18775962182",
     priceRange: "$$",
     areaServed: { "@type": "Country", name: "United States" },

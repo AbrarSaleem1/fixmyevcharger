@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://evchargerrepair.us/sitemap.xml",
+    sitemap: "https://fixmyevcharger.us/sitemap.xml",
   };
 }

@@ -4,7 +4,7 @@ import Breadcrumbs from "../components/Breadcrumbs";
 export const metadata = {
   title: "Privacy Policy | FixMyEV Charger",
   description: "Privacy Policy for FixMyEV Charger. Learn how we handle information responsibly.",
-  alternates: { canonical: "https://evchargerrepair.us/privacy-policy/" },
+  alternates: { canonical: "https://fixmyevcharger.us/privacy-policy/" },
 };
 
 export default function PrivacyPolicyPage() {

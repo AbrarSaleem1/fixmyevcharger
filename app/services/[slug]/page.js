@@ -12,11 +12,11 @@ export async function generateMetadata({ params }) {
   return {
     title: `${service.name} | FixMyEV Charger`,
     description: service.shortDesc,
-    alternates: { canonical: `https://evchargerrepair.us/services/${service.slug}/` },
+    alternates: { canonical: `https://fixmyevcharger.us/services/${service.slug}/` },
     openGraph: {
       title: `${service.name} | FixMyEV Charger`,
       description: service.shortDesc,
-      url: `https://evchargerrepair.us/services/${service.slug}/`,
+      url: `https://fixmyevcharger.us/services/${service.slug}/`,
     }
   };
 }

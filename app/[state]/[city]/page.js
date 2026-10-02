@@ -16,12 +16,12 @@ export async function generateMetadata({ params }) {
     title: `EV Charger Repair ${cityName}, ${state.code} | Certified EV Electricians`,
     description: `Need EV charger repair in ${cityName}, ${state.code}? 24/7 Tesla, Level 2 & commercial charger service by certified electricians. Call (877) 596-2182!`,
     alternates: {
-      canonical: `https://evchargerrepair.us/${state.slug}/${citySlug}/`,
+      canonical: `https://fixmyevcharger.us/${state.slug}/${citySlug}/`,
     },
     openGraph: {
       title: `EV Charger Repair ${cityName}, ${state.code} | Certified EV Electricians`,
       description: `Need EV charger repair in ${cityName}, ${state.code}? 24/7 Tesla, Level 2 & commercial charger service by certified electricians. Call (877) 596-2182!`,
-      url: `https://evchargerrepair.us/${state.slug}/${citySlug}/`,
+      url: `https://fixmyevcharger.us/${state.slug}/${citySlug}/`,
     },
   };
 }
@@ -68,7 +68,7 @@ export default async function CityPage({ params }) {
     "@type": ["HomeAndConstructionBusiness", "LocalBusiness", "Electrician"],
     name: `FixMyEV Charger - ${cityName}, ${state.code}`,
     description: `Same day EV charger repair, Tesla Wall Connector service, and electrical diagnostics in ${cityName}, ${state.name}.`,
-    url: `https://evchargerrepair.us/${state.slug}/${citySlug}/`,
+    url: `https://fixmyevcharger.us/${state.slug}/${citySlug}/`,
     telephone: "+18775962182",
     priceRange: "$$",
     address: {

@@ -7,11 +7,11 @@ export const metadata = {
   title: "Professional EV Charger Repair Services | FixMyEV Charger",
   description:
     "Explore our complete range of EV charger repair services: Tesla Wall Connector, Level 2, circuit & breaker repair, emergency service, DC fast charger, and commercial solutions. Call (877) 596-2182!",
-  alternates: { canonical: "https://evchargerrepair.us/services/" },
+  alternates: { canonical: "https://fixmyevcharger.us/services/" },
   openGraph: {
     title: "Professional EV Charger Repair Services | FixMyEV Charger",
     description: "Explore our complete range of EV charger repair services. Certified electricians, same-day dispatch. Call (877) 596-2182!",
-    url: "https://evchargerrepair.us/services/",
+    url: "https://fixmyevcharger.us/services/",
   }
 };
 

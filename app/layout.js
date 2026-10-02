@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  metadataBase: new URL("https://evchargerrepair.us"),
+  metadataBase: new URL("https://fixmyevcharger.us"),
   title: {
     default: "EV Charger Repair & Electrical Services | FixMyEV Charger",
     template: "%s | FixMyEV Charger",

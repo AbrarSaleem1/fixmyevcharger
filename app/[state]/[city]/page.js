@@ -198,6 +198,16 @@ export default async function CityPage({ params }) {
           <div className="services-grid">
             {SERVICES.map((srv) => (
               <div className="service-card" key={srv.slug}>
+                <div className="service-card-image">
+                  <img
+                    src={srv.image}
+                    alt={`${srv.name} in ${cityName}, ${stateName}`}
+                    width={400}
+                    height={250}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </div>
                 <div className="service-card-content">
                   <div className="service-icon"><i className={`ph-fill ${srv.icon}`}></i></div>
                   <h3>{srv.name}</h3>

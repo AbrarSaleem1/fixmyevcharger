@@ -201,7 +201,7 @@ export default async function CityPage({ params }) {
                 <div className="service-card-image">
                   <img
                     src={srv.image}
-                    alt={`${srv.name} in ${cityName}, ${stateName}`}
+                    alt={`${srv.name} in ${cityName}, ${state.name}`}
                     width={400}
                     height={250}
                     loading="lazy"

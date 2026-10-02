@@ -101,7 +101,7 @@ export default async function StatePage({ params }) {
                 <div className="service-card-image">
                   <img
                     src={srv.image}
-                    alt={`${srv.name} in ${stateName}`}
+                    alt={`${srv.name} in ${state.name}`}
                     width={400}
                     height={250}
                     loading="lazy"

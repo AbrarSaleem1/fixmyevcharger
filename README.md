@@ -4,7 +4,8 @@
 
 ## Features
 - **Next.js App Router** with modern SSR and Turbopack optimization
-- **Dynamic Nationwide Routing**: Dedicated landing pages for all 50 US States and thousands of cities (/[state]/[city]/)
+- **Dynamic Nationwide Routing**: Dedicated landing pages for all 50 US States and top 19,000 US cities (/[state]/[city]/)
+- **Pre-generated Static Sitemap**: Fast Googlebot indexing via static `public/sitemap.xml` with 19,063 verified URLs
 - **6 Core EV Services**:
   - Tesla Wall Connector Repair
   - Level 2 EV Charger Repair
@@ -16,7 +17,7 @@
 - **Optimized for Cloudflare Pages / Workers** with OpenNext
 
 ## Getting Started
-`ash
+```bash
 npm install
 npm run dev
-`
+```
